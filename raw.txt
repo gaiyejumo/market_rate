@@ -58,3 +58,50 @@ api.update_status(status=tweet_text)
 ```
 
 Remember to replace placeholders (e.g., API endpoints, keys) with your actual information. Also, ensure you're following the terms of use of the data source and Twitter API.
+
+API Code to review
+
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <script src="//static.getclicky.com/js" type="text/javascript"></script>
+                <script type="text/javascript">
+                    try {
+                        clicky.init(100908758);
+                    } catch (e) {}
+                </script>
+
+            </div>
+        </div>
+        <div class="rate-ticker" style="height: 60px">
+
+            <iframe id="ticker-iframe" src="/tickers" width="250000" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+
+        </div>
+    </div>
+
+
+
+    <div id="fb-root"></div>
+    <script>
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8&appId=1872376583001558";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div>
+        <div class="cookies-eu js-cookies-eu cookiesDiv">
+            <span class="cookies-eu-header">This website uses cookies</span>
+            <span class="cookies-eu-content-holder">We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you&#39;ve provided to them or that they&#39;ve collected from your use of their services</span>
+            <span class="cookies-eu-button-holder">
+<button class="cookies-eu-ok js-cookies-eu-ok"> OK </button>
+</span>
+        </div>
+        <script src="https://assets.a/assets/custom_application-e9339e0c3a5623197f9855c4f153e67f2c0ce2738d737b2b1306b1585b82d22e.js" data-turbolinks-track="true"></script>
+    </div>
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" data-cf-beacon='{"rayId":"7f8254296f5243c9","version":"2023.8.0","r":1,"b":1,"token":"1ae0fee0a28049ffb92ea1f1fe3ea6ce","si":100}'
+        crossorigin="anonymous"></script>
+
+
