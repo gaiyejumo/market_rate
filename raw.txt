@@ -1,4 +1,5 @@
 In this file, I would be posting things I need for my program.
+Codes I intend to explore in my work.
 
 To automate fetching live market rates and tweeting them on Twitter, you can follow these steps:
 
